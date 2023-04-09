@@ -39,6 +39,7 @@ const getFragments = (fontStore, instance, parentLink, level = 0) => {
     letterSpacing,
     textIndent,
     opacity,
+    verticalAlign,
   } = instance.style;
 
   const opts = { fontFamily, fontWeight, fontStyle };
@@ -72,6 +73,7 @@ const getFragments = (fontStore, instance, parentLink, level = 0) => {
     link: parentLink || instance.props?.src || instance.props?.href,
     lineHeight: lineHeight ? lineHeight * fontSize : null,
     align: textAlign || (direction === 'rtl' ? 'right' : 'left'),
+    verticalAlign,
   };
 
   for (let i = 0; i < instance.children.length; i += 1) {

@@ -1,5 +1,17 @@
 # @react-pdf/pdfkit
 
+## 3.0.2
+
+### Patch Changes
+
+- [#2205](https://github.com/diegomura/react-pdf/pull/2205) [`9a5e0be`](https://github.com/diegomura/react-pdf/commit/9a5e0befb89756db07ce053192a136df9d4ba905) Thanks [@jeetiss](https://github.com/jeetiss)! - update babel
+
+## 3.0.1
+
+### Patch Changes
+
+- [#2121](https://github.com/diegomura/react-pdf/pull/2121) [`8536f10`](https://github.com/diegomura/react-pdf/commit/8536f103830a9ed00211fc4c821b221377885a07) Thanks [@jeetiss](https://github.com/jeetiss)! - fix `attachments` mixin
+
 ## 3.0.0
 
 ### Major Changes

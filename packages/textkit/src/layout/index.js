@@ -11,6 +11,7 @@ import finalizeFragments from './finalizeFragments';
 import resolveAttachments from './resolveAttachments';
 import applyDefaultStyles from './applyDefaultStyles';
 import bidiMirroring from './bidiMirroring';
+import verticalAlignment from './verticalAlign';
 
 /**
  * A LayoutEngine is the main object that performs text layout.
@@ -29,6 +30,8 @@ const layoutEngine = engines => (attributedString, container, options = {}) => {
   const processParagraph = compose(
     resolveYOffset(engines, options),
     resolveAttachments(engines, options),
+    generateGlyphs(engines, options),
+    verticalAlignment(options),
     wrapWords(engines, options),
     generateGlyphs(engines, options),
     bidiMirroring(engines, options),

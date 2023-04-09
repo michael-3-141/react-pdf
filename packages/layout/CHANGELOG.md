@@ -1,5 +1,84 @@
 # @react-pdf/layout
 
+## 3.6.0
+
+### Minor Changes
+
+- [#2254](https://github.com/diegomura/react-pdf/pull/2254) [`d48039c`](https://github.com/diegomura/react-pdf/commit/d48039c9e224346fd22395f48eb03ceffa5e3dd6) Thanks [@carlobeltrame](https://github.com/carlobeltrame)! - Enable more modern emoji (Unicode 13+)
+
+## 3.5.1
+
+### Patch Changes
+
+- [#2252](https://github.com/diegomura/react-pdf/pull/2252) [`47e91cb`](https://github.com/diegomura/react-pdf/commit/47e91cbd8016046bb4e8389ba0d1c7ede9edce59) Thanks [@jeetiss](https://github.com/jeetiss)! - implement function as emoji source to build more complex urls
+
+- Updated dependencies [[`47e91cb`](https://github.com/diegomura/react-pdf/commit/47e91cbd8016046bb4e8389ba0d1c7ede9edce59)]:
+  - @react-pdf/types@2.3.1
+  - @react-pdf/stylesheet@4.1.5
+
+## 3.5.0
+
+### Minor Changes
+
+- [#2214](https://github.com/diegomura/react-pdf/pull/2214) [`2db67a3`](https://github.com/diegomura/react-pdf/commit/2db67a38b9be98b7816a2b5aa4733446b95e3724) Thanks [@KODIKAS-NL](https://github.com/KODIKAS-NL)! - added base support for verticalAlign "super" and "sub"
+
+### Patch Changes
+
+- Updated dependencies [[`2db67a3`](https://github.com/diegomura/react-pdf/commit/2db67a38b9be98b7816a2b5aa4733446b95e3724), [`eff1ff0`](https://github.com/diegomura/react-pdf/commit/eff1ff0fefcd710994e4654904ef55843af76a17), [`c5b21fc`](https://github.com/diegomura/react-pdf/commit/c5b21fc97b704b3616522b897847a9d3c9dc0052)]:
+  - @react-pdf/textkit@4.2.0
+  - @react-pdf/types@2.3.0
+  - @react-pdf/fns@2.0.1
+  - @react-pdf/yoga@4.1.2
+  - @react-pdf/stylesheet@4.1.4
+
+## 3.4.1
+
+### Patch Changes
+
+- [#2205](https://github.com/diegomura/react-pdf/pull/2205) [`9a5e0be`](https://github.com/diegomura/react-pdf/commit/9a5e0befb89756db07ce053192a136df9d4ba905) Thanks [@jeetiss](https://github.com/jeetiss)! - update babel
+
+- Updated dependencies [[`9a5e0be`](https://github.com/diegomura/react-pdf/commit/9a5e0befb89756db07ce053192a136df9d4ba905)]:
+  - @react-pdf/stylesheet@4.1.3
+  - @react-pdf/textkit@4.1.1
+  - @react-pdf/pdfkit@3.0.2
+  - @react-pdf/image@2.2.1
+  - @react-pdf/yoga@4.1.1
+
+## 3.4.0
+
+### Minor Changes
+
+- [#2198](https://github.com/diegomura/react-pdf/pull/2198) [`c981784`](https://github.com/diegomura/react-pdf/commit/c981784b172e9a7631edb7a1fe41ce77bc6ccdee) Thanks [@Solpatium](https://github.com/Solpatium)! - Break on containers whose children can not fit on a page
+
+## 3.3.1
+
+### Patch Changes
+
+- [#2186](https://github.com/diegomura/react-pdf/pull/2186) [`72435bd`](https://github.com/diegomura/react-pdf/commit/72435bd81afdada5b811a1d82af0c873cfb62fa0) Thanks [@jeetiss](https://github.com/jeetiss)! - update yoga-layout to support flexBasis auto
+
+- Updated dependencies [[`72435bd`](https://github.com/diegomura/react-pdf/commit/72435bd81afdada5b811a1d82af0c873cfb62fa0)]:
+  - @react-pdf/stylesheet@4.1.1
+  - @react-pdf/yoga@4.1.0
+
+## 3.3.0
+
+### Minor Changes
+
+- [#2160](https://github.com/diegomura/react-pdf/pull/2160) [`a743c90`](https://github.com/diegomura/react-pdf/commit/a743c905fb5d201d2382bc9175fa36b83cc47284) Thanks [@jeetiss](https://github.com/jeetiss)! - implement flex gap
+
+### Patch Changes
+
+- Updated dependencies [[`a743c90`](https://github.com/diegomura/react-pdf/commit/a743c905fb5d201d2382bc9175fa36b83cc47284), [`a14ca9e`](https://github.com/diegomura/react-pdf/commit/a14ca9e62c9edc37f239558f8dbae29212b0da4d)]:
+  - @react-pdf/stylesheet@4.1.0
+  - @react-pdf/types@2.2.0
+  - @react-pdf/yoga@4.0.0
+
+## 3.2.2
+
+### Patch Changes
+
+- [#2141](https://github.com/diegomura/react-pdf/pull/2141) [`0000d34`](https://github.com/diegomura/react-pdf/commit/0000d347d5b2fec33ee213da4ba637f06be78fae) Thanks [@jeetiss](https://github.com/jeetiss)! - fix rendering freeze when `<Text>` is empty
+
 ## 3.2.1
 
 ### Patch Changes

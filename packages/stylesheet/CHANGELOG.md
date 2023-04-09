@@ -1,5 +1,49 @@
 # @react-pdf/stylesheet
 
+## 4.1.5
+
+### Patch Changes
+
+- Updated dependencies [[`47e91cb`](https://github.com/diegomura/react-pdf/commit/47e91cbd8016046bb4e8389ba0d1c7ede9edce59)]:
+  - @react-pdf/types@2.3.1
+
+## 4.1.4
+
+### Patch Changes
+
+- Updated dependencies [[`2db67a3`](https://github.com/diegomura/react-pdf/commit/2db67a38b9be98b7816a2b5aa4733446b95e3724), [`eff1ff0`](https://github.com/diegomura/react-pdf/commit/eff1ff0fefcd710994e4654904ef55843af76a17)]:
+  - @react-pdf/types@2.3.0
+  - @react-pdf/fns@2.0.1
+
+## 4.1.3
+
+### Patch Changes
+
+- [#2205](https://github.com/diegomura/react-pdf/pull/2205) [`9a5e0be`](https://github.com/diegomura/react-pdf/commit/9a5e0befb89756db07ce053192a136df9d4ba905) Thanks [@jeetiss](https://github.com/jeetiss)! - update babel
+
+## 4.1.2
+
+### Patch Changes
+
+- [#2191](https://github.com/diegomura/react-pdf/pull/2191) [`37c3d74`](https://github.com/diegomura/react-pdf/commit/37c3d741fc9ad7eb91508b5caf6a5a554243f7ff) Thanks [@jeetiss](https://github.com/jeetiss)! - revert flex shorthand defaults
+
+## 4.1.1
+
+### Patch Changes
+
+- [#2186](https://github.com/diegomura/react-pdf/pull/2186) [`72435bd`](https://github.com/diegomura/react-pdf/commit/72435bd81afdada5b811a1d82af0c873cfb62fa0) Thanks [@jeetiss](https://github.com/jeetiss)! - update yoga-layout to support flexBasis auto
+
+## 4.1.0
+
+### Minor Changes
+
+- [#2160](https://github.com/diegomura/react-pdf/pull/2160) [`a743c90`](https://github.com/diegomura/react-pdf/commit/a743c905fb5d201d2382bc9175fa36b83cc47284) Thanks [@jeetiss](https://github.com/jeetiss)! - implement flex gap
+
+### Patch Changes
+
+- Updated dependencies [[`a743c90`](https://github.com/diegomura/react-pdf/commit/a743c905fb5d201d2382bc9175fa36b83cc47284)]:
+  - @react-pdf/types@2.2.0
+
 ## 4.0.0
 
 ### Major Changes
