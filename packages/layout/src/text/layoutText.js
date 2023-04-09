@@ -1,15 +1,16 @@
 import layoutEngine, {
+  bidi,
   linebreaker,
   justification,
   scriptItemizer,
   wordHyphenation,
   textDecoration,
 } from '@react-pdf/textkit';
-
 import fontSubstitution from './fontSubstitution';
 import getAttributedString from './getAttributedString';
 
 const engines = {
+  bidi,
   linebreaker,
   justification,
   textDecoration,
