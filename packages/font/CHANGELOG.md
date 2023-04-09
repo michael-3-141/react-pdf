@@ -1,5 +1,14 @@
 # @react-pdf/font
 
+## 0.0.0-bidi-20230409113118
+
+### Patch Changes
+
+- Bidi
+
+- Updated dependencies []:
+  - @react-pdf/types@0.0.0-bidi-20230409113118
+
 ## 2.3.4
 
 ### Patch Changes

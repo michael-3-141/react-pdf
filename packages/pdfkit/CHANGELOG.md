@@ -1,5 +1,11 @@
 # @react-pdf/pdfkit
 
+## 0.0.0-bidi-20230409113118
+
+### Patch Changes
+
+- Bidi
+
 ## 3.0.2
 
 ### Patch Changes

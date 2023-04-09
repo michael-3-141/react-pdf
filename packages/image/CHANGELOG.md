@@ -1,5 +1,11 @@
 # @react-pdf/image
 
+## 0.0.0-bidi-20230409113118
+
+### Patch Changes
+
+- Bidi
+
 ## 2.2.1
 
 ### Patch Changes

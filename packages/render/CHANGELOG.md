@@ -1,5 +1,17 @@
 # @react-pdf/render
 
+## 0.0.0-bidi-20230409113118
+
+### Patch Changes
+
+- Bidi
+
+- Updated dependencies []:
+  - @react-pdf/fns@0.0.0-bidi-20230409113118
+  - @react-pdf/primitives@0.0.0-bidi-20230409113118
+  - @react-pdf/textkit@0.0.0-bidi-20230409113118
+  - @react-pdf/types@0.0.0-bidi-20230409113118
+
 ## 3.2.4
 
 ### Patch Changes

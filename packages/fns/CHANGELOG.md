@@ -1,5 +1,11 @@
 # @react-pdf/fns
 
+## 0.0.0-bidi-20230409113118
+
+### Patch Changes
+
+- Bidi
+
 ## 2.0.1
 
 ### Patch Changes

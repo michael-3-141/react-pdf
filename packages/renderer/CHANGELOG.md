@@ -1,5 +1,19 @@
 # @react-pdf/renderer
 
+## 0.0.0-bidi-20230409113118
+
+### Patch Changes
+
+- Bidi
+
+- Updated dependencies []:
+  - @react-pdf/font@0.0.0-bidi-20230409113118
+  - @react-pdf/layout@0.0.0-bidi-20230409113118
+  - @react-pdf/pdfkit@0.0.0-bidi-20230409113118
+  - @react-pdf/primitives@0.0.0-bidi-20230409113118
+  - @react-pdf/render@0.0.0-bidi-20230409113118
+  - @react-pdf/types@0.0.0-bidi-20230409113118
+
 ## 3.1.9
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # @react-pdf/svgkit
 
+## 0.0.0-bidi-20230409113118
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @react-pdf/pdfkit@0.0.0-bidi-20230409113118
+
 ## 2.2.2
 
 ### Patch Changes

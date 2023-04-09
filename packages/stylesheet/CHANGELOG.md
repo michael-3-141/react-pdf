@@ -1,5 +1,15 @@
 # @react-pdf/stylesheet
 
+## 0.0.0-bidi-20230409113118
+
+### Patch Changes
+
+- Bidi
+
+- Updated dependencies []:
+  - @react-pdf/fns@0.0.0-bidi-20230409113118
+  - @react-pdf/types@0.0.0-bidi-20230409113118
+
 ## 4.1.5
 
 ### Patch Changes

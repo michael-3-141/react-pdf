@@ -1,5 +1,12 @@
 # @react-pdf/examples
 
+## 0.0.0-bidi-20230409113118
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @react-pdf/renderer@0.0.0-bidi-20230409113118
+
 ## 2.0.8
 
 ### Patch Changes
