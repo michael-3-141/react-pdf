@@ -1,4 +1,4 @@
-import { compose } from '@react-pdf/fns';
+import { compose } from '@michael-3-141/react-pdf-fns';
 import expandStyles from './expand';
 import flattenStyles from './flatten';
 import transformStyles from './transform';

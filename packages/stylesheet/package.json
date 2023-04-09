@@ -1,6 +1,6 @@
 {
-  "name": "@react-pdf/stylesheet",
-  "version": "0.0.0-bidi-20230409113118",
+  "name": "@michael-3-141/react-pdf-stylesheet",
+  "version": "0.0.0-bidi-20230409135840",
   "license": "MIT",
   "description": "A styles engine for Node and the browser",
   "author": "Diego Muracciole <diegomuracciole@gmail.com>",
@@ -19,8 +19,8 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.20.13",
-    "@react-pdf/fns": "0.0.0-bidi-20230409113118",
-    "@react-pdf/types": "0.0.0-bidi-20230409113118",
+    "@michael-3-141/react-pdf-fns": "0.0.0-bidi-20230409135840",
+    "@michael-3-141/react-pdf-types": "0.0.0-bidi-20230409135840",
     "color-string": "^1.5.3",
     "hsl-to-hex": "^1.0.0",
     "media-engine": "^1.0.3",

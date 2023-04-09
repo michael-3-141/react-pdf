@@ -5,7 +5,7 @@ import layoutEngine, {
   scriptItemizer,
   wordHyphenation,
   textDecoration,
-} from '@react-pdf/textkit';
+} from '@michael-3-141/react-pdf-textkit';
 import fontSubstitution from './fontSubstitution';
 import getAttributedString from './getAttributedString';
 

@@ -1,5 +1,5 @@
 import bidiFactory from 'bidi-js';
-import { repeat } from '@react-pdf/fns';
+import { repeat } from '@michael-3-141/react-pdf-fns';
 
 const bidi = bidiFactory();
 

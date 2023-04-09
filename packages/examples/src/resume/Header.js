@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Link, Text, View, StyleSheet } from '@react-pdf/renderer';
+import { Link, Text, View, StyleSheet } from '@michael-3-141/react-pdf-renderer';
 
 const styles = StyleSheet.create({
   container: {

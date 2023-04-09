@@ -1,8 +1,8 @@
 /* eslint-disable no-continue */
 /* eslint-disable prefer-destructuring */
 
-import * as P from '@react-pdf/primitives';
-import { isNil, omit, compose } from '@react-pdf/fns';
+import * as P from '@michael-3-141/react-pdf-primitives';
+import { isNil, omit, compose } from '@michael-3-141/react-pdf-fns';
 
 import isFixed from '../node/isFixed';
 import splitText from '../text/splitText';

@@ -1,6 +1,6 @@
 /* eslint-disable no-cond-assign */
 import emojiRegex from 'emoji-regex';
-import resolveImage from '@react-pdf/image';
+import resolveImage from '@michael-3-141/react-pdf-image';
 
 // Caches emoji images data
 const emojis = {};

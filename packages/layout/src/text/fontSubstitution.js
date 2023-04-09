@@ -1,4 +1,4 @@
-import { last } from '@react-pdf/fns';
+import { last } from '@michael-3-141/react-pdf-fns';
 
 import StandardFont from './standardFont';
 

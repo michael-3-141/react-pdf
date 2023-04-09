@@ -7,7 +7,7 @@ import {
   Image,
   Document,
   StyleSheet,
-} from '@react-pdf/renderer';
+} from '@michael-3-141/react-pdf-renderer';
 
 import Header from './Header';
 import Skills from './Skills';

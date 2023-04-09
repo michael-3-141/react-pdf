@@ -1,4 +1,4 @@
-import * as P from '@react-pdf/primitives';
+import * as P from '@michael-3-141/react-pdf-primitives';
 
 import layoutEngine, {
   linebreaker,
@@ -7,7 +7,7 @@ import layoutEngine, {
   scriptItemizer,
   wordHyphenation,
   textDecoration,
-} from '@react-pdf/textkit';
+} from '@michael-3-141/react-pdf-textkit';
 
 import fromFragments from '../text/fromFragments';
 import transformText from '../text/transformText';

@@ -1,4 +1,12 @@
-# @react-pdf/types
+# @michael-3-141/react-pdf-types
+
+## 0.0.0-bidi-20230409135840
+
+### Patch Changes
+
+- bidi
+
+* bidi
 
 ## 0.0.0-bidi-20230409113118
 

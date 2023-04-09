@@ -1,4 +1,4 @@
-import { get } from '@react-pdf/fns';
+import { get } from '@michael-3-141/react-pdf-fns';
 
 import lineIndexAtHeight from './lineIndexAtHeight';
 import heightAtLineIndex from './heightAtLineIndex';

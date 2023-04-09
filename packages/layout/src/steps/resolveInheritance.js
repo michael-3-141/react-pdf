@@ -1,5 +1,5 @@
-import * as P from '@react-pdf/primitives';
-import { pick, compose } from '@react-pdf/fns';
+import * as P from '@michael-3-141/react-pdf-primitives';
+import { pick, compose } from '@michael-3-141/react-pdf-fns';
 
 const INHERITED_PROPERTIES = [
   'color',

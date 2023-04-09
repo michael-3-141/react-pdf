@@ -1,5 +1,5 @@
-import * as P from '@react-pdf/primitives';
-import stylesheet from '@react-pdf/stylesheet';
+import * as P from '@michael-3-141/react-pdf-primitives';
+import stylesheet from '@michael-3-141/react-pdf-stylesheet';
 
 const isLink = node => node.type === P.Link;
 

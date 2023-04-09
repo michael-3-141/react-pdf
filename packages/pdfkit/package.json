@@ -1,6 +1,6 @@
 {
-  "name": "@react-pdf/pdfkit",
-  "version": "0.0.0-bidi-20230409113118",
+  "name": "@michael-3-141/react-pdf-pdfkit",
+  "version": "0.0.0-bidi-20230409135840",
   "license": "MIT",
   "description": "A PDF generation library for Node.js",
   "main": "./lib/pdfkit.cjs.js",
@@ -30,7 +30,7 @@
   ],
   "dependencies": {
     "@babel/runtime": "^7.20.13",
-    "@react-pdf/png-js": "^2.2.0",
+    "@michael-3-141/react-pdf-png-js": "0.0.0-bidi-20230409135840",
     "browserify-zlib": "^0.2.0",
     "crypto-js": "^4.0.0",
     "fontkit": "^2.0.2",

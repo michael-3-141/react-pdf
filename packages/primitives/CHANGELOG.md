@@ -1,4 +1,12 @@
-# @react-pdf/primitives
+# @michael-3-141/react-pdf-primitives
+
+## 0.0.0-bidi-20230409135840
+
+### Patch Changes
+
+- bidi
+
+* bidi
 
 ## 0.0.0-bidi-20230409113118
 

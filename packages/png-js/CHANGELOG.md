@@ -1,4 +1,12 @@
-# @react-pdf/png-js
+# @michael-3-141/react-pdf-png-js
+
+## 0.0.0-bidi-20230409135840
+
+### Patch Changes
+
+- bidi
+
+* bidi
 
 ## 2.2.0
 

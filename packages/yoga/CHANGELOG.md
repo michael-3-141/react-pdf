@@ -1,4 +1,12 @@
-# @react-pdf/yoga
+# @michael-3-141/react-pdf-yoga
+
+## 0.0.0-bidi-20230409135840
+
+### Patch Changes
+
+- bidi
+
+* bidi
 
 ## 4.1.2
 

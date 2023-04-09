@@ -1,4 +1,4 @@
-import Yoga from '@react-pdf/yoga';
+import Yoga from '@michael-3-141/react-pdf-yoga';
 
 const getComputedPadding = (node, edge) => {
   const { yogaNode } = node;

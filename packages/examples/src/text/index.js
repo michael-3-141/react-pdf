@@ -9,7 +9,7 @@ import {
   Link,
   Font,
   StyleSheet,
-} from '@react-pdf/renderer';
+} from '@michael-3-141/react-pdf-renderer';
 
 const styles = StyleSheet.create({
   title: {
